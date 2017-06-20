@@ -1,3 +1,0 @@
-add_lunch_combo lineage_ham-user
-add_lunch_combo lineage_ham-userdebug
-add_lunch_combo lineage_ham-eng
