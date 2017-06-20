@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "OwnROM-Devices/android_device_zuk_ham",
+    "target_path": "device/zuk/ham",
+    "remote": "github",
+    "revision": "own-n"
+  },
+  {
+    "repository": "OwnROM-Devices/android_kernel_cyanogen_msm8974-RA",
+    "target_path": "kernel/cyanogen/msm8974",
+    "remote": "github",
+    "revision": "own-n"
+  },
+  {
+    "repository": "LineageOS/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote": "github",
+    "revision": "cm-14.1"
+  },
+  {
+    "repository": "proprietary_vendor_zuk",
+    "target_path": "vendor/zuk",
+    "remote": "github",
+    "revision": "own-n"
+  }
+ 
+]
