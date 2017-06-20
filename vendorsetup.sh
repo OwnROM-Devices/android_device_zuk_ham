@@ -1,0 +1,3 @@
+add_lunch_combo ownrom_ham-user
+add_lunch_combo ownrom_ham-userdebug
+add_lunch_combo ownrom_ham-eng
