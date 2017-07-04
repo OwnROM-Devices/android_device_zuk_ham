@@ -52,6 +52,7 @@ media.stagefright.less-secure=true
 media.aac_51_output_enabled=true
 av.streaming.offload.enable=false
 use.dedicated.device.for.voip=true
+sys.display-size=3840x2160
 
 # Network
 persist.data.netmgrd.qos.enable=true
