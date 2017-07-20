@@ -175,6 +175,16 @@ PRODUCT_PACKAGES += \
 # Thermal
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/thermal-engine.conf:system/etc/thermal-engine-8974.conf
+    
+# Weather providers
+PRODUCT_PACKAGES += \
+    OpenWeatherMapProvider \
+    YahooWeatherProvider \
+    WundergroundWeatherProvider
+
+# Widevine
+PRODUCT_PACKAGES += \
+    libshim_wvm
 
 # WiFi
 PRODUCT_COPY_FILES += \
